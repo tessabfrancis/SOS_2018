@@ -1,0 +1,1039 @@
+"","year","month","day","site","ipa","station","org_type","tax_group","species","species_count","mean_length_mm"
+"1","2018","06","11","SHR","Armored",0,"Fish","Flatfish","Sand Sole",3,115
+"2","2018","06","11","SHR","Armored",0,"Fish","Flatfish","Speckled Sand Dab",1,130
+"3","2018","06","11","SHR","Armored",0,"Fish","Perch","Shiner Perch",3,89.6666666666667
+"4","2018","06","11","SHR","Armored",0,"Fish","Pholidae","Saddleback Gunnel",1,150
+"5","2018","06","11","SHR","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",8,0
+"6","2018","06","11","SHR","Armored",2,"Fish","Salmon","Chum",3,95
+"7","2018","06","11","SHR","Natural",0,"Benthic invertebrate","Decapod","Helmet Crab",1,45
+"8","2018","06","11","SHR","Natural",0,"Fish","Hexagrammidae","Lingcod",2,97.5
+"9","2018","06","11","SHR","Natural",0,"Fish","Perch","Shiner Perch",1,110
+"10","2018","06","11","SHR","Natural",1,"Fish","Salmon","Coho",1,120
+"11","2018","06","11","SHR","Natural",2,"Fish","Salmon","Chum",44,36.6363636363636
+"12","2018","06","11","SHR","Natural",2,"Fish","Salmon","Coho",1,100
+"13","2018","06","11","SHR","Restored",0,"Fish","Salmon","Chinook",2,84
+"14","2018","06","11","SHR","Restored",1,"Fish","Salmon","Chinook",2,86
+"15","2018","06","11","SHR","Restored",2,"Pelagic invertebrate","Jellyfish","Jellyfish Sp",8,0
+"16","2018","06","12","FAM","Armored",0,"Fish","Salmon","Chum",1,67
+"17","2018","06","12","FAM","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",3,0
+"18","2018","06","12","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",12,0
+"19","2018","06","12","FAM","Armored",2,"Fish","Forage Fish","Herring",17,48.4117647058824
+"20","2018","06","12","FAM","Natural",0,"Benthic invertebrate","Decapod","Kelp Crab",1,59.5
+"21","2018","06","12","FAM","Natural",0,"Fish","Forage Fish","Herring",1,49
+"22","2018","06","12","FAM","Natural",0,"Fish","Hexagrammidae","Kelp Greenling",1,90
+"23","2018","06","12","FAM","Natural",0,"Fish","Hexagrammidae","Lingcod",1,70
+"24","2018","06","12","FAM","Natural",0,"Fish","Salmon","Chum",1,58
+"25","2018","06","12","FAM","Natural",0,"Fish","Stichaeid","Snake Prickleback",1,150
+"26","2018","06","12","FAM","Natural",1,NA,NA,"none",1,0
+"27","2018","06","12","FAM","Natural",2,NA,NA,"none",1,0
+"28","2018","06","12","FAM","Restored",0,"Fish","Cottidae","Buffalo Sculpin",1,31
+"29","2018","06","12","FAM","Restored",0,"Fish","Pholidae","Saddleback Gunnel",1,103
+"30","2018","06","12","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"31","2018","06","12","FAM","Restored",2,"Fish","Forage Fish","Herring",1,49
+"32","2018","06","12","TUR","Armored",0,"Fish","Gadidae","Tom Cod",47,19.8085106382979
+"33","2018","06","12","TUR","Armored",0,"Fish","Salmon","Pink",3,71.3333333333333
+"34","2018","06","12","TUR","Armored",1,"Benthic invertebrate","Decapod","Helmet Crab",2,40
+"35","2018","06","12","TUR","Armored",1,"Benthic invertebrate","Decapod","Hippolyte Sp",4,0
+"36","2018","06","12","TUR","Armored",1,"Fish","Cottidae","Buffalo Sculpin",1,132
+"37","2018","06","12","TUR","Armored",1,"Fish","Gadidae","Tom Cod",126,7.83333333333333
+"38","2018","06","12","TUR","Armored",1,"Fish","Perch","Shiner Perch",1,79
+"39","2018","06","12","TUR","Armored",1,"Fish","Pholidae","Gunnel Sp",1,0
+"40","2018","06","12","TUR","Armored",2,NA,NA,"none",1,0
+"41","2018","06","12","TUR","Natural",0,"Fish","Salmon","Pink",220,7.26818181818182
+"42","2018","06","12","TUR","Natural",1,"Fish","Salmon","Pink",1,0
+"43","2018","06","12","TUR","Natural",2,"Fish","Salmon","Pink",1,0
+"44","2018","06","12","TUR","Restored",0,"Fish","Gadidae","Tom Cod",43,22.6046511627907
+"45","2018","06","12","TUR","Restored",0,"Fish","Salmon","Pink",6,66.6666666666667
+"46","2018","06","12","TUR","Restored",0,"Fish","UnID Fish","UnID Fish",2,59.5
+"47","2018","06","12","TUR","Restored",1,"Fish","Rockfish","UnID Rockfish",1,53
+"48","2018","06","12","TUR","Restored",1,"Fish","Salmon","Pink",89,15.6966292134831
+"49","2018","06","12","TUR","Restored",2,"Benthic invertebrate","Decapod","Idotea",1,0
+"50","2018","06","12","TUR","Restored",2,"Fish","Poacher","Poacher",1,35
+"51","2018","06","12","TUR","Restored",2,"Fish","Salmon","Chum",1,79
+"52","2018","06","12","TUR","Restored",2,"Fish","Salmon","Pink",17,84.9411764705882
+"53","2018","06","12","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Jellyfish Sp",1,0
+"54","2018","06","13","COR","Armored",1,"Fish","Forage Fish","Herring",1,125
+"55","2018","06","13","COR","Armored",1,"Fish","Salmon","Chinook",1,97
+"56","2018","06","13","COR","Armored",2,"Fish","Salmon","none",1,0
+"57","2018","06","13","COR","Natural",1,"Fish","Perch","Shiner Perch",21,80.5714285714286
+"58","2018","06","13","COR","Natural",1,"Fish","Perch","Striped Perch",2,220
+"59","2018","06","13","COR","Natural",1,"Fish","Pholidae","Crescent Gunnel",5,87.6
+"60","2018","06","13","COR","Natural",1,"Fish","Pholidae","Saddleback Gunnel",2,94
+"61","2018","06","13","COR","Natural",1,"Fish","Salmon","Coho",1,94
+"62","2018","06","13","COR","Natural",1,"Fish","Stichaeid","Snake Prickleback",5,137
+"63","2018","06","13","COR","Natural",2,"Benthic invertebrate","Decapod","Kelp Crab",1,20
+"64","2018","06","13","COR","Natural",2,"Fish","Salmon","Chinook",1,101
+"65","2018","06","13","COR","Natural",2,"Fish","Salmon","Pink",1,85
+"66","2018","06","13","COR","Restored",1,"Benthic invertebrate","Decapod","Dungeness Crab",1,180
+"67","2018","06","13","COR","Restored",1,"Benthic invertebrate","Decapod","Helmet Crab",1,80
+"68","2018","06","13","COR","Restored",1,"Benthic invertebrate","Decapod","Kelp Crab",1,25
+"69","2018","06","13","COR","Restored",1,"Fish","Cottidae","Staghorn Sculpin",18,48.1666666666667
+"70","2018","06","13","COR","Restored",1,"Fish","Perch","Shiner Perch",7,76.7142857142857
+"71","2018","06","13","COR","Restored",1,"Fish","Pholidae","Crescent Gunnel",1,80
+"72","2018","06","13","COR","Restored",1,"Fish","Pholidae","Saddleback Gunnel",1,110
+"73","2018","06","13","COR","Restored",1,"Fish","Salmon","Chinook",6,79.8333333333333
+"74","2018","06","13","COR","Restored",1,"Fish","Stichaeid","Snake Prickleback",7,151
+"75","2018","06","13","COR","Restored",2,"Fish","Perch","Shiner Perch",2,81
+"76","2018","06","13","COR","Restored",2,"Fish","Salmon","Chinook",2,83
+"77","2018","06","13","COR","Restored",2,"Fish","Salmon","Coho",1,115
+"78","2018","06","14","EDG","Armored",0,"Benthic invertebrate","Decapod","Kelp Crab",1,12
+"79","2018","06","14","EDG","Armored",0,"Fish","Aulorhynchus","Tube Snout",1,146
+"80","2018","06","14","EDG","Armored",0,"Fish","Flatfish","Sand Sole",1,86
+"81","2018","06","14","EDG","Armored",0,"Fish","Perch","Shiner Perch",2,93
+"82","2018","06","14","EDG","Armored",0,"Fish","Stichaeid","Stickleback",27,46.037037037037
+"83","2018","06","14","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",20,3
+"84","2018","06","14","EDG","Armored",1,NA,"salmon","none",1,0
+"85","2018","06","14","EDG","Armored",2,"Fish","Salmon","Chinook",1,85
+"86","2018","06","14","EDG","Natural",0,"Benthic invertebrate","Decapod","Dungeness Crab",7,53.2857142857143
+"87","2018","06","14","EDG","Natural",0,"Fish","Perch","Shiner Perch",40,52.8
+"88","2018","06","14","EDG","Natural",1,"Fish","Stichaeid","Stickleback",1,50
+"89","2018","06","14","EDG","Natural",2,"Fish","Salmon","Chinook",1,107
+"90","2018","06","14","EDG","Restored",0,"Benthic invertebrate","Decapod","Dungeness Crab",20,59.5
+"91","2018","06","14","EDG","Restored",0,"Benthic invertebrate","Decapod","Kelp Crab",4,12.25
+"92","2018","06","14","EDG","Restored",0,"Fish","Aulorhynchus","Tube Snout",2,140.5
+"93","2018","06","14","EDG","Restored",0,"Fish","Flatfish","C-O Sole",1,70
+"94","2018","06","14","EDG","Restored",0,"Fish","Flatfish","Sand Sole",8,87.5
+"95","2018","06","14","EDG","Restored",0,"Fish","Perch","Shiner Perch",13,90.6153846153846
+"96","2018","06","14","EDG","Restored",0,"Fish","Salmon","Chinook",1,80
+"97","2018","06","14","EDG","Restored",0,"Fish","Stichaeid","Stickleback",1,68
+"98","2018","06","14","EDG","Restored",1,"Fish","Salmon","Chinook",1,101
+"99","2018","06","14","EDG","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",10,3
+"100","2018","06","14","EDG","Restored",2,NA,"fish","none",1,0
+"101","2018","06","19","DOK","Armored",0,"Fish","Aulorhynchus","Tube Snout",1,182
+"102","2018","06","19","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",60,3
+"103","2018","06","19","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,10
+"104","2018","06","19","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",40,0
+"105","2018","06","19","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,10
+"106","2018","06","19","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",50,0
+"107","2018","06","19","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",9,10
+"108","2018","06","19","DOK","Natural",0,"Fish","Perch","Shiner Perch",1,80
+"109","2018","06","19","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",10,10
+"110","2018","06","19","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",5,10
+"111","2018","06","19","DOK","Natural",1,"Fish","Perch","Shiner Perch",10,81.1
+"112","2018","06","19","DOK","Natural",1,"Fish","Salmon","Chinook",1,85
+"113","2018","06","19","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,36
+"114","2018","06","19","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Jellyfish Sp",20,10
+"115","2018","06","19","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",30,3
+"116","2018","06","19","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Fried Egg Jelly",1,20
+"117","2018","06","19","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",20,3
+"118","2018","06","19","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",5,5
+"119","2018","06","19","DOK","Restored",2,"Fish","Perch","Shiner Perch",1,81
+"120","2018","06","19","DOK","Restored",2,"Fish","Salmon","Chinook",1,105
+"121","2018","06","19","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",30,3
+"122","2018","06","19","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,10
+"123","2018","07","11","FAM","Armored",0,NA,NA,"none",1,0
+"124","2018","07","11","FAM","Armored",1,NA,NA,"none",1,0
+"125","2018","07","11","FAM","Armored",2,NA,NA,"none",1,0
+"126","2018","07","11","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"127","2018","07","11","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",10,0
+"128","2018","07","11","FAM","Natural",1,NA,NA,"none",1,0
+"129","2018","07","11","FAM","Natural",2,NA,NA,"none",1,0
+"130","2018","07","11","FAM","Restored",0,NA,NA,"none",1,0
+"131","2018","07","11","FAM","Restored",1,NA,NA,"none",1,0
+"132","2018","07","11","FAM","Restored",2,NA,NA,"none",1,0
+"133","2018","07","11","TUR","Armored",0,"Benthic invertebrate","Decapod","Pandalid",1,6.2
+"134","2018","07","11","TUR","Armored",0,"Benthic invertebrate","Decapod","UnID Shrimp",4,4.25
+"135","2018","07","11","TUR","Armored",0,"Fish","Cottidae","Silver Spotted Sculpin",1,5
+"136","2018","07","11","TUR","Armored",0,"Fish","Gadidae","Pacific Cod",4,6
+"137","2018","07","11","TUR","Armored",0,"Fish","Gadidae","Tom Cod",3,6.23333333333333
+"138","2018","07","11","TUR","Armored",0,"Fish","Hexagrammidae","Lingcod",1,10.2
+"139","2018","07","11","TUR","Armored",0,"Fish","Perch","Shiner Perch",1,6.2
+"140","2018","07","11","TUR","Armored",0,"Fish","Pholidae","Saddleback Gunnel",2,14.75
+"141","2018","07","11","TUR","Armored",1,NA,NA,"none",1,0
+"142","2018","07","11","TUR","Armored",2,NA,NA,"none",1,0
+"143","2018","07","11","TUR","Natural",1,NA,NA,"none",1,0
+"144","2018","07","11","TUR","Natural",2,NA,NA,"none",1,0
+"145","2018","07","11","TUR","Restored",1,NA,NA,"none",1,0
+"146","2018","07","11","TUR","Restored",2,NA,NA,"none",1,0
+"147","2018","07","12","COR","Armored",0,NA,NA,"none",1,0
+"148","2018","07","12","COR","Armored",1,NA,NA,"none",1,0
+"149","2018","07","12","COR","Armored",2,NA,NA,"none",1,0
+"150","2018","07","12","COR","Natural",0,"Benthic invertebrate","Decapod","Dungeness Crab",1,65
+"151","2018","07","12","COR","Natural",0,"Fish","Forage Fish","Surf Smelt",1,117
+"152","2018","07","12","COR","Natural",0,"Fish","Salmon","Chinook",8,94.5
+"153","2018","07","12","COR","Natural",1,"Fish","Forage Fish","Herring",5,147
+"154","2018","07","12","COR","Natural",1,"Fish","Forage Fish","Sand Lance",1,134
+"155","2018","07","12","COR","Natural",1,"Fish","Forage Fish","Surf Smelt",7,106.857142857143
+"156","2018","07","12","COR","Natural",1,"Fish","Perch","Shiner Perch",50,34.8
+"157","2018","07","12","COR","Natural",1,"Fish","Salmon","Chinook",15,111.466666666667
+"158","2018","07","12","COR","Natural",2,"Fish","Stichaeid","Stickleback",1,30
+"159","2018","07","12","COR","Restored",0,"Fish","Perch","Shiner Perch",7,80.1428571428571
+"160","2018","07","12","COR","Restored",0,"Fish","Salmon","Chinook",9,100.555555555556
+"161","2018","07","12","COR","Restored",1,"Fish","Forage Fish","Herring",1,148
+"162","2018","07","12","COR","Restored",1,"Fish","Forage Fish","Surf Smelt",1,148
+"163","2018","07","12","COR","Restored",1,"Fish","Perch","Shiner Perch",2,80
+"164","2018","07","12","COR","Restored",1,"Fish","Salmon","Chinook",6,102.666666666667
+"165","2018","07","12","COR","Restored",2,NA,NA,"none",1,0
+"166","2018","07","12","TUR","Armored",0,NA,NA,"none",1,0
+"167","2018","07","12","TUR","Armored",1,"Benthic invertebrate","Decapod","Kelp Crab",1,45
+"168","2018","07","12","TUR","Armored",1,"Fish","Gadidae","Pacific Cod",8,58.25
+"169","2018","07","12","TUR","Armored",1,"Fish","Salmon","Chinook",1,120
+"170","2018","07","12","TUR","Armored",1,"Fish","Salmon","Pink",1,70
+"171","2018","07","12","TUR","Armored",2,"Fish","Salmon","Chinook",11,89.7272727272727
+"172","2018","07","12","TUR","Armored",2,"Fish","Salmon","Chum",16,101.5625
+"173","2018","07","12","TUR","Armored",2,"Fish","Salmon","Pink",3,81
+"174","2018","07","12","TUR","Natural",0,NA,NA,"none",1,0
+"175","2018","07","12","TUR","Natural",1,NA,NA,"none",1,0
+"176","2018","07","12","TUR","Natural",2,NA,NA,"none",1,0
+"177","2018","07","12","TUR","Restored",0,NA,NA,"none",1,0
+"178","2018","07","12","TUR","Restored",1,"Benthic invertebrate","Decapod","Kelp Crab",1,1
+"179","2018","07","12","TUR","Restored",2,NA,NA,"none",1,0
+"180","2018","07","16","SHR","Armored",0,NA,NA,"none",1,0
+"181","2018","07","16","SHR","Armored",1,NA,NA,"none",1,0
+"182","2018","07","16","SHR","Armored",2,NA,NA,"none",1,0
+"183","2018","07","16","SHR","Natural",0,NA,NA,"none",1,0
+"184","2018","07","16","SHR","Natural",1,NA,NA,"none",1,0
+"185","2018","07","16","SHR","Natural",2,NA,NA,"none",1,0
+"186","2018","07","16","SHR","Restored",0,"Benthic invertebrate","Decapod","Graceful Crab",4,38.75
+"187","2018","07","16","SHR","Restored",0,"Benthic invertebrate","Decapod","Helmet Crab",3,40
+"188","2018","07","16","SHR","Restored",0,"Benthic invertebrate","Decapod","Idotea",1,32
+"189","2018","07","16","SHR","Restored",0,"Benthic invertebrate","Decapod","Pandalid",12,44.1666666666667
+"190","2018","07","16","SHR","Restored",0,"Fish","Perch","Shiner Perch",15,91.7333333333333
+"191","2018","07","16","SHR","Restored",1,NA,NA,"none",1,0
+"192","2018","07","16","SHR","Restored",2,NA,NA,"none",1,0
+"193","2018","07","18","EDG","Armored",0,NA,NA,"none",1,0
+"194","2018","07","18","EDG","Armored",1,NA,NA,"none",1,0
+"195","2018","07","18","EDG","Armored",2,NA,NA,"none",1,0
+"196","2018","07","18","EDG","Natural",0,"Fish","Salmon","Chinook",2,124
+"197","2018","07","18","EDG","Natural",0,"Fish","Salmon","Chum",6,135
+"198","2018","07","18","EDG","Natural",0,"Fish","Stichaeid","Stickleback",2,60
+"199","2018","07","18","EDG","Natural",1,NA,NA,"none",1,0
+"200","2018","07","18","EDG","Natural",2,NA,NA,"none",1,0
+"201","2018","07","18","EDG","Restored",0,NA,NA,"none",1,0
+"202","2018","07","18","EDG","Restored",1,"Fish","Salmon","Chinook",1,105
+"203","2018","07","18","EDG","Restored",1,"Fish","Salmon","Chum",2,152.5
+"204","2018","07","18","EDG","Restored",1,"Pelagic invertebrate","Jellyfish","Fried Egg Jelly",1,0
+"205","2018","07","18","EDG","Restored",2,NA,NA,"none",1,0
+"206","2018","07","19","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"207","2018","07","19","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",50,0
+"208","2018","07","19","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",100,0
+"209","2018","07","19","DOK","Natural",0,"Fish","Perch","Shiner Perch",1,57
+"210","2018","07","19","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"211","2018","07","19","DOK","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"212","2018","07","19","DOK","Natural",2,"Fish","Salmon","Chum",1,120
+"213","2018","07","19","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",75,0
+"214","2018","07","19","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",50,0
+"215","2018","07","19","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",50,0
+"216","2018","07","19","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",50,0
+"217","2018","08","01","SHR","Armored",0,NA,NA,"none",1,0
+"218","2018","08","01","SHR","Armored",1,NA,NA,"none",1,0
+"219","2018","08","01","SHR","Armored",2,NA,NA,"none",1,0
+"220","2018","08","01","SHR","Natural",0,NA,NA,"none",1,0
+"221","2018","08","01","SHR","Natural",1,NA,NA,"none",1,0
+"222","2018","08","01","SHR","Natural",2,NA,NA,"none",1,0
+"223","2018","08","01","SHR","Restored",0,"Benthic invertebrate","Decapod","Kelp Crab",1,60
+"224","2018","08","01","SHR","Restored",0,"Fish","Perch","Shiner Perch",16,97.625
+"225","2018","08","01","SHR","Restored",0,"Fish","Salmon","Chinook",1,195
+"226","2018","08","01","SHR","Restored",0,"Fish","Sygnathid","Pipefish",3,78.6666666666667
+"227","2018","08","01","SHR","Restored",1,NA,NA,"none",1,0
+"228","2018","08","01","SHR","Restored",2,NA,NA,"none",1,0
+"229","2018","08","03","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"230","2018","08","03","DOK","Armored",1,"Fish","Salmon","Chinook",1,127
+"231","2018","08","03","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",100,0
+"232","2018","08","03","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",100,0
+"233","2018","08","03","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"234","2018","08","03","DOK","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",40,0
+"235","2018","08","03","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",99,0
+"236","2018","08","03","DOK","Restored",0,"Fish","Perch","Shiner Perch",148,7.59459459459459
+"237","2018","08","03","DOK","Restored",1,NA,NA,"none",1,0
+"238","2018","08","03","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"239","2018","08","07","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Fried Egg Jelly",1,25
+"240","2018","08","07","EDG","Armored",1,NA,NA,"none",1,0
+"241","2018","08","07","EDG","Armored",2,NA,NA,"none",1,0
+"242","2018","08","07","EDG","Natural",0,NA,NA,"none",1,0
+"243","2018","08","07","EDG","Natural",1,NA,NA,"none",1,0
+"244","2018","08","07","EDG","Natural",2,NA,NA,"none",1,0
+"245","2018","08","07","EDG","Restored",0,NA,NA,"none",1,0
+"246","2018","08","07","EDG","Restored",1,NA,NA,"none",1,0
+"247","2018","08","07","EDG","Restored",2,NA,NA,"none",1,0
+"248","2018","08","23","FAM","Armored",0,NA,NA,"none",1,0
+"249","2018","08","23","FAM","Armored",1,NA,NA,"none",1,0
+"250","2018","08","23","FAM","Armored",2,NA,NA,"none",1,0
+"251","2018","08","23","FAM","Natural",0,"Fish","Perch","Shiner Perch",55,20.7090909090909
+"252","2018","08","23","FAM","Natural",1,"Benthic invertebrate","Decapod","UnID Amphipod",1,0
+"253","2018","08","23","FAM","Natural",1,"Benthic invertebrate","Decapod","UnID Shrimp",1,0
+"254","2018","08","23","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"255","2018","08","23","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",11,0
+"256","2018","08","23","FAM","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"257","2018","08","23","FAM","Restored",0,NA,NA,"none",1,0
+"258","2018","08","23","FAM","Restored",1,NA,NA,"none",1,0
+"259","2018","08","23","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"260","2018","08","23","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,0
+"261","2018","08","23","TUR","Armored",0,"Benthic invertebrate","Decapod","Green Shrimp",1,50
+"262","2018","08","23","TUR","Armored",0,"Benthic invertebrate","Decapod","Striped Shrimp",2,59
+"263","2018","08","23","TUR","Armored",0,"Fish","Cottidae","Silver Spotted Sculpin",2,77
+"264","2018","08","23","TUR","Armored",0,"Fish","Perch","Shiner Perch",33,38.6666666666667
+"265","2018","08","23","TUR","Armored",0,"Fish","Perch","Striped Perch",4,87.5
+"266","2018","08","23","TUR","Armored",0,"Fish","Pholidae","Crescent Gunnel",1,70
+"267","2018","08","23","TUR","Armored",1,"Benthic invertebrate","Decapod","Green Shrimp",36,10.5
+"268","2018","08","23","TUR","Armored",1,"Benthic invertebrate","Decapod","Kelp Crab",2,35
+"269","2018","08","23","TUR","Armored",1,"Benthic invertebrate","Decapod","Striped Shrimp",11,46.6363636363636
+"270","2018","08","23","TUR","Armored",1,"Fish","Perch","Shiner Perch",55,22.5818181818182
+"271","2018","08","23","TUR","Armored",1,"Fish","Perch","Striped Perch",5,74.2
+"272","2018","08","23","TUR","Armored",2,"Fish","Perch","Shiner Perch",2,80.5
+"273","2018","08","23","TUR","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"274","2018","08","23","TUR","Natural",0,"Benthic invertebrate","Decapod","Green Shrimp",1,0
+"275","2018","08","23","TUR","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"276","2018","08","23","TUR","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"277","2018","08","23","TUR","Natural",1,NA,NA,"none",1,0
+"278","2018","08","23","TUR","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"279","2018","08","23","TUR","Restored",0,NA,NA,"none",1,0
+"280","2018","08","23","TUR","Restored",1,NA,NA,"none",1,0
+"281","2018","08","23","TUR","Restored",2,NA,NA,"none",1,0
+"282","2018","08","29","COR","Armored",0,"Fish","Cottidae","Buffalo Sculpin",4,37.75
+"283","2018","08","29","COR","Armored",0,"Fish","Forage Fish","Herring",1,75
+"284","2018","08","29","COR","Armored",0,"Fish","Forage Fish","Sand Lance",1,83
+"285","2018","08","29","COR","Armored",0,"Fish","Hexagrammidae","White Spotted Greenling",1,105
+"286","2018","08","29","COR","Armored",0,"Fish","Perch","Shiner Perch",37,36.1081081081081
+"287","2018","08","29","COR","Armored",0,"Fish","Perch","Striped Perch",1,80
+"288","2018","08","29","COR","Armored",1,NA,NA,"none",1,0
+"289","2018","08","29","COR","Armored",2,NA,NA,"none",1,0
+"290","2018","08","29","COR","Natural",0,"Fish","Perch","Shiner Perch",4,125
+"291","2018","08","29","COR","Natural",0,"Fish","Salmon","Chinook",1,130
+"292","2018","08","29","COR","Natural",1,NA,NA,"none",1,0
+"293","2018","08","29","COR","Natural",2,NA,NA,"none",1,0
+"294","2018","08","29","COR","Restored",0,"Fish","Perch","Shiner Perch",18,91.4444444444444
+"295","2018","08","29","COR","Restored",0,"Fish","Salmon","Chinook",1,115
+"296","2018","08","29","COR","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",80,0
+"297","2018","08","29","COR","Restored",1,"Fish","Perch","Shiner Perch",6,96.1666666666667
+"298","2018","08","29","COR","Restored",1,"Fish","Salmon","Chinook",1,131
+"299","2018","08","29","COR","Restored",2,"Fish","Forage Fish","Surf Smelt",1,110
+"300","2018","08","29","COR","Restored",2,"Fish","Salmon","Chinook",1,135
+"301","2018","08","29","COR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",100,0
+"302","2018","09","06","DOK","Armored",0,"Benthic invertebrate","Decapod","Shore Crab",1,5
+"303","2018","09","06","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"304","2018","09","06","DOK","Armored",1,"Fish","Salmon","Chinook",1,138
+"305","2018","09","06","DOK","Armored",2,"Fish","Forage Fish","Herring",4,110.75
+"306","2018","09","06","DOK","Armored",2,"Fish","Forage Fish","Surf Smelt",12,104.25
+"307","2018","09","06","DOK","Natural",0,"Benthic invertebrate","Decapod","Shore Crab",1,15
+"308","2018","09","06","DOK","Natural",0,"Fish","Perch","Shiner Perch",7,65.7142857142857
+"309","2018","09","06","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",1,40
+"310","2018","09","06","DOK","Natural",1,NA,NA,"none",1,0
+"311","2018","09","06","DOK","Natural",2,NA,NA,"none",1,0
+"312","2018","09","06","DOK","Restored",0,"Benthic invertebrate","Decapod","Shore Crab",1,18
+"313","2018","09","06","DOK","Restored",0,"Fish","Flatfish","Speckled Sand Dab",1,137
+"314","2018","09","06","DOK","Restored",1,"Benthic invertebrate","Decapod","Shore Crab",1,15
+"315","2018","09","06","DOK","Restored",1,"Fish","Stichaeid","Stickleback",1,30
+"316","2018","09","06","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,10
+"317","2018","09","06","DOK","Restored",2,NA,NA,"none",1,0
+"318","2018","09","06","SHR","Armored",0,NA,NA,"none",1,0
+"319","2018","09","06","SHR","Armored",1,"Benthic invertebrate","Decapod","Shore Crab",1,17
+"320","2018","09","06","SHR","Armored",1,"Fish","Stichaeid","Stickleback",2,35.5
+"321","2018","09","06","SHR","Armored",2,NA,NA,"none",1,0
+"322","2018","09","06","SHR","Natural",0,NA,NA,"none",1,0
+"323","2018","09","06","SHR","Natural",1,NA,NA,"none",1,0
+"324","2018","09","06","SHR","Natural",2,NA,NA,"none",1,0
+"325","2018","09","06","SHR","Restored",0,"Fish","Perch","Shiner Perch",1,78
+"326","2018","09","06","SHR","Restored",1,NA,NA,"none",1,0
+"327","2018","09","06","SHR","Restored",2,NA,NA,"none",1,0
+"328","2018","09","11","FAM","Armored",0,"Fish","Forage Fish","Herring",1,82
+"329","2018","09","11","FAM","Armored",0,"Fish","Perch","Shiner Perch",7,86.1428571428571
+"330","2018","09","11","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",50,0
+"331","2018","09","11","FAM","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",25,0
+"332","2018","09","11","FAM","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",5,0
+"333","2018","09","11","FAM","Natural",0,"Fish","Forage Fish","Herring",61,27.8524590163934
+"334","2018","09","11","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",200,10
+"335","2018","09","11","FAM","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",200,10
+"336","2018","09","11","FAM","Restored",0,"Fish","Forage Fish","Herring",1,88
+"337","2018","09","11","FAM","Restored",0,"Fish","Forage Fish","Surf Smelt",6,55.6666666666667
+"338","2018","09","11","FAM","Restored",0,"Fish","Perch","Shiner Perch",81,15.962962962963
+"339","2018","09","11","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"340","2018","09","11","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",270,0
+"341","2018","09","11","FAM","Restored",2,"Fish","Stichaeid","Stickleback",1,31
+"342","2018","09","11","TUR","Armored",0,"Benthic invertebrate","Decapod","UnID Shrimp",4,66.5
+"343","2018","09","11","TUR","Armored",1,"Fish","Perch","Shiner Perch",10,99.3
+"344","2018","09","11","TUR","Armored",2,NA,NA,"none",1,0
+"345","2018","09","11","TUR","Natural",0,NA,NA,"none",1,0
+"346","2018","09","11","TUR","Natural",1,NA,NA,"none",1,0
+"347","2018","09","11","TUR","Natural",2,"Fish","Stichaeid","Stickleback",1,31
+"348","2018","09","11","TUR","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",20,0
+"349","2018","09","11","TUR","Restored",0,NA,NA,"none",1,0
+"350","2018","09","11","TUR","Restored",1,NA,NA,"none",1,0
+"351","2018","09","11","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"352","2018","09","11","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",4,0
+"353","2018","09","12","COR","Armored",0,"Benthic invertebrate","Decapod","UnID Shrimp",2,24
+"354","2018","09","12","COR","Armored",0,"Fish","Hexagrammidae","White Spotted Greenling",1,128
+"355","2018","09","12","COR","Armored",0,"Fish","Perch","Shiner Perch",32,36.875
+"356","2018","09","12","COR","Armored",0,"Fish","Pholidae","Crescent Gunnel",1,125
+"357","2018","09","12","COR","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",20,0
+"358","2018","09","12","COR","Armored",1,"Fish","Forage Fish","Herring",1,73
+"359","2018","09","12","COR","Armored",2,NA,NA,"none",1,0
+"360","2018","09","12","COR","Natural",0,"Fish","Perch","Shiner Perch",35,0
+"361","2018","09","12","COR","Natural",1,"Fish","Gadidae","Pacific Cod",1,0
+"362","2018","09","12","COR","Natural",1,"Fish","Perch","Shiner Perch",76,17.7894736842105
+"363","2018","09","12","COR","Natural",2,NA,NA,"none",1,0
+"364","2018","09","12","COR","Restored",0,"Benthic invertebrate","Decapod","Dungeness Crab",1,120
+"365","2018","09","12","COR","Restored",0,"Benthic invertebrate","Decapod","UnID Shrimp",1,45
+"366","2018","09","12","COR","Restored",0,"Fish","Cottidae","Buffalo Sculpin",1,120
+"367","2018","09","12","COR","Restored",0,"Fish","Perch","Shiner Perch",13,93.1538461538462
+"368","2018","09","12","COR","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"369","2018","09","12","COR","Restored",1,"Fish","Cottidae","Buffalo Sculpin",1,41
+"370","2018","09","12","COR","Restored",1,"Fish","Perch","Shiner Perch",15,89
+"371","2018","09","12","COR","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",80,0
+"372","2018","09","12","COR","Restored",2,NA,NA,"none",1,0
+"373","2018","09","12","TUR","Armored",0,"Benthic invertebrate","Decapod","UnID Shrimp",1,35
+"374","2018","09","12","TUR","Armored",0,"Fish","Perch","Shiner Perch",23,64.4782608695652
+"375","2018","09","12","TUR","Armored",1,"Benthic invertebrate","Decapod","UnID Shrimp",1,45
+"376","2018","09","12","TUR","Armored",1,"Fish","Cottidae","Silver Spotted Sculpin",1,81
+"377","2018","09","12","TUR","Armored",1,"Fish","Perch","Shiner Perch",14,87.0714285714286
+"378","2018","09","12","TUR","Armored",1,"Fish","Perch","Striped Perch",1,74
+"379","2018","09","12","TUR","Armored",1,"Fish","Pholidae","Saddleback Gunnel",1,95
+"380","2018","09","12","TUR","Armored",2,NA,NA,"none",1,0
+"381","2018","09","12","TUR","Natural",0,NA,NA,"none",1,0
+"382","2018","09","12","TUR","Natural",1,NA,NA,"none",1,0
+"383","2018","09","12","TUR","Natural",2,NA,NA,"none",1,0
+"384","2018","09","12","TUR","Restored",0,"Fish","Perch","Pile Perch",1,285
+"385","2018","09","12","TUR","Restored",0,"Fish","Perch","Striped Perch",3,116.666666666667
+"386","2018","09","12","TUR","Restored",1,"Fish","Perch","Striped Perch",1,232
+"387","2018","09","12","TUR","Restored",2,NA,NA,"none",1,0
+"388","2018","09","14","EDG","Armored",0,NA,NA,"none",1,0
+"389","2018","09","14","EDG","Armored",1,NA,NA,"none",1,0
+"390","2018","09","14","EDG","Armored",2,NA,NA,"none",1,0
+"391","2018","09","14","EDG","Natural",0,NA,NA,"none",1,0
+"392","2018","09","14","EDG","Natural",1,NA,NA,"none",1,0
+"393","2018","09","14","EDG","Natural",2,"Pelagic invertebrate","Jellyfish","Fried Egg Jelly",1,0
+"394","2018","09","14","EDG","Restored",0,NA,NA,"none",1,0
+"395","2018","09","14","EDG","Restored",1,NA,NA,"none",1,0
+"396","2018","09","14","EDG","Restored",2,"Pelagic invertebrate","Jellyfish","Fried Egg Jelly",1,0
+"397","2019","04","19","DOK","Armored",1,"Benthic Invertebrate","Isopod","Idotea",1,0
+"398","2019","04","19","DOK","Armored",1,"Fish","Forage Fish","Surf Smelt",1,145
+"399","2019","04","19","DOK","Armored",1,"Fish","Salmon","Chum",13,87.2307692307692
+"400","2019","04","19","DOK","Armored",2,NA,NA,"none",1,0
+"401","2019","04","19","DOK","Natural",0,NA,NA,"none",1,0
+"402","2019","04","19","DOK","Natural",1,NA,NA,"none",1,0
+"403","2019","04","19","DOK","Natural",2,NA,NA,"none",1,0
+"404","2019","04","19","DOK","Restored",0,"Fish","Salmon","Chinook",1,99
+"405","2019","04","19","DOK","Restored",1,NA,NA,"none",1,0
+"406","2019","04","19","DOK","Restored",2,NA,NA,"none",1,0
+"407","2019","04","19","SHR","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"408","2019","04","19","SHR","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",7,0
+"409","2019","04","19","SHR","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"410","2019","04","19","SHR","Natural",0,NA,NA,"none",1,0
+"411","2019","04","19","SHR","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"412","2019","04","19","SHR","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"413","2019","04","19","SHR","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",6,0
+"414","2019","04","19","SHR","Restored",1,NA,NA,"none",1,0
+"415","2019","04","19","SHR","Restored",2,NA,NA,"none",1,0
+"416","2019","04","24","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",11,0
+"417","2019","04","24","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"418","2019","04","24","EDG","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"419","2019","04","24","EDG","Armored",2,NA,NA,"none",1,0
+"420","2019","04","24","EDG","Natural",0,"Fish","Forage Fish","Sand Lance",1,40
+"421","2019","04","24","EDG","Natural",1,NA,NA,"none",1,0
+"422","2019","04","24","EDG","Natural",2,NA,NA,"none",1,0
+"423","2019","04","24","EDG","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",23,0
+"424","2019","04","24","EDG","Restored",1,"Fish","Perch","Shiner Perch",50,34
+"425","2019","04","24","EDG","Restored",2,NA,NA,"none",1,0
+"426","2019","04","29","COR","Armored",0,"Benthic Invertebrate","Decapod","Crab",1,20
+"427","2019","04","29","COR","Armored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",3,33.3333333333333
+"428","2019","04","29","COR","Armored",0,"Fish","Perch","Shiner Perch",1,80
+"429","2019","04","29","COR","Armored",0,"Fish","Pholidae","Saddleback Gunnel",1,85
+"430","2019","04","29","COR","Armored",0,"Fish","Salmon","Chum",1,45
+"431","2019","04","29","COR","Armored",0,"Fish","Stichaeid","Snake Prickleback",1,195
+"432","2019","04","29","COR","Armored",1,"Benthic Invertebrate","Isopod","Idotea",1,40
+"433","2019","04","29","COR","Armored",1,"Fish","Salmon","Chum",512,2.044921875
+"434","2019","04","29","COR","Armored",2,"Fish","Forage Fish","Herring",1,32
+"435","2019","04","29","COR","Armored",2,"Fish","Salmon","Chum",79,16.7974683544304
+"436","2019","04","29","COR","Natural",0,"Fish","Forage Fish","Herring",4,151.75
+"437","2019","04","29","COR","Natural",0,"Fish","Forage Fish","Sand Lance",2,72.5
+"438","2019","04","29","COR","Natural",0,"Fish","Forage Fish","Surf Smelt",1,144
+"439","2019","04","29","COR","Natural",0,"Fish","Salmon","Chum",20,54.6
+"440","2019","04","29","COR","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"441","2019","04","29","COR","Natural",2,"Fish","Salmon","Chum",15,45.1333333333333
+"442","2019","04","29","COR","Restored",0,"Benthic Invertebrate","Decapod","Pandalid",25,32.8
+"443","2019","04","29","COR","Restored",0,"Benthic Invertebrate","Gastropod","Nudibranch",1,90
+"444","2019","04","29","COR","Restored",0,"Fish","Cottidae","Buffalo Sculpin",7,22.4285714285714
+"445","2019","04","29","COR","Restored",0,"Fish","Cottidae","Staghorn Sculpin",1,110
+"446","2019","04","29","COR","Restored",0,"Fish","Flatfish","English sole",2,76
+"447","2019","04","29","COR","Restored",0,"Fish","Flatfish","UnID Flatfish",1,24
+"448","2019","04","29","COR","Restored",0,"Fish","Salmon","Chum",38,23.6052631578947
+"449","2019","04","29","COR","Restored",1,"Fish","Forage Fish","Herring",2,0
+"450","2019","04","29","COR","Restored",1,"Fish","Salmon","Chum",44,20.8409090909091
+"451","2019","04","29","COR","Restored",1,"Pelagic invertebrate","Decapod","Crab Zoea",1,4
+"452","2019","04","29","COR","Restored",2,NA,NA,"none",1,0
+"453","2019","04","29","FAM","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",4,0
+"454","2019","04","29","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",15,0
+"455","2019","04","29","FAM","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",22,0
+"456","2019","04","29","FAM","Natural",0,"Fish","Hexagrammidae","Kelp Greenling",183,6.67213114754098
+"457","2019","04","29","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"458","2019","04","29","FAM","Natural",1,"Pelagic invertebrate","Ctenophore","Ctenophore",18,0
+"459","2019","04","29","FAM","Natural",2,"Benthic Invertebrate","Decapod","UnID Shrimp",1,23
+"460","2019","04","29","FAM","Natural",2,"Fish","Hexagrammidae","Kelp Greenling",1,30
+"461","2019","04","29","FAM","Natural",2,"Pelagic invertebrate","Ctenophore","Ctenophore",7,0
+"462","2019","04","29","FAM","Restored",0,"Fish","Forage Fish","Surf Smelt",1,120
+"463","2019","04","29","FAM","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",6,0
+"464","2019","04","29","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"465","2019","04","29","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"466","2019","04","30","COR","Natural",0,"Benthic Invertebrate","Decapod","Crab Zoea",1,0
+"467","2019","04","30","TUR","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",8,0
+"468","2019","04","30","TUR","Armored",1,"Benthic Invertebrate","Decapod","Kelp Crab",1,10
+"469","2019","04","30","TUR","Armored",1,"Fish","Aulorhynchus","Tube Snout",1,150
+"470","2019","04","30","TUR","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",6,0
+"471","2019","04","30","TUR","Armored",2,"Fish","Gadidae","Tom Cod",1,23
+"472","2019","04","30","TUR","Armored",2,"Pelagic invertebrate","Decapod","Crab Zoea",3,4
+"473","2019","04","30","TUR","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"474","2019","04","30","TUR","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"475","2019","04","30","TUR","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",15,0
+"476","2019","04","30","TUR","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",25,0
+"477","2019","04","30","TUR","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"478","2019","04","30","TUR","Restored",0,"Benthic Invertebrate","Decapod","Kelp Crab",1,20
+"479","2019","04","30","TUR","Restored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",8,28.25
+"480","2019","04","30","TUR","Restored",0,"Fish","Pholidae","Crescent Gunnel",1,110
+"481","2019","04","30","TUR","Restored",0,"Fish","Pholidae","Penpoint Gunnel",1,0
+"482","2019","04","30","TUR","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"483","2019","04","30","TUR","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"484","2019","04","30","TUR","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"485","2019","04","30","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",8,0
+"486","2019","05","01","COR","Natural",0,"Benthic Invertebrate","Decapod","Crab Zoea",1,0
+"487","2019","05","20","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",49,0
+"488","2019","05","20","DOK","Armored",1,"Fish","Salmon","Chum",1,80
+"489","2019","05","20","DOK","Armored",1,"Fish","Stichaeid","Stickleback",1,70
+"490","2019","05","20","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",40,0
+"491","2019","05","20","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",11,0
+"492","2019","05","20","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",22,0
+"493","2019","05","20","DOK","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",20,0
+"494","2019","05","20","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"495","2019","05","20","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"496","2019","05","20","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"497","2019","05","20","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"498","2019","05","20","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"499","2019","05","20","SHR","Armored",0,"Fish","Aulorhynchus","Tube Snout",3,144.333333333333
+"500","2019","05","20","SHR","Armored",0,"Fish","Perch","Shiner Perch",45,38.1555555555556
+"501","2019","05","20","SHR","Armored",0,"Fish","Pholidae","Saddleback Gunnel",1,135
+"502","2019","05","20","SHR","Armored",0,"Fish","Salmon","Chum",3,67
+"503","2019","05","20","SHR","Armored",1,"Fish","Salmon","Chum",1,0
+"504","2019","05","20","SHR","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"505","2019","05","20","SHR","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",4,0
+"506","2019","05","20","SHR","Natural",0,"Benthic Invertebrate","Decapod","Helmet Crab",1,40
+"507","2019","05","20","SHR","Natural",0,"Fish","Aulorhynchus","Tube Snout",1,145
+"508","2019","05","20","SHR","Natural",0,"Fish","Perch","Shiner Perch",1,85
+"509","2019","05","20","SHR","Natural",0,"Fish","Pholidae","Saddleback Gunnel",2,125
+"510","2019","05","20","SHR","Natural",1,"Fish","Hexagrammidae","Kelp Greenling",1,55
+"511","2019","05","20","SHR","Natural",1,"Fish","Salmon","Chum",9,66.8888888888889
+"512","2019","05","20","SHR","Natural",2,"Fish","Hexagrammidae","Kelp Greenling",3,52
+"513","2019","05","20","SHR","Natural",2,"Fish","Salmon","Chum",6,36.1666666666667
+"514","2019","05","20","SHR","Natural",2,"Fish","Salmon","Coho",1,60
+"515","2019","05","20","SHR","Natural",2,"Fish","Stichaeid","Stickleback",1,60
+"516","2019","05","20","SHR","Restored",0,"Fish","Aulorhynchus","Tube Snout",58,47.051724137931
+"517","2019","05","20","SHR","Restored",0,"Fish","Forage Fish","Sand Lance",1,110
+"518","2019","05","20","SHR","Restored",0,"Fish","Perch","Shiner Perch",4,93
+"519","2019","05","20","SHR","Restored",1,"Fish","Salmon","Chum",18,84.1666666666667
+"520","2019","05","20","SHR","Restored",2,"Fish","Salmon","Chinook",1,109
+"521","2019","05","20","SHR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"522","2019","05","21","COR","Armored",0,"Fish","Forage Fish","Herring",2,90.5
+"523","2019","05","21","COR","Armored",0,"Fish","Pholidae","Saddleback Gunnel",1,100
+"524","2019","05","21","COR","Armored",0,"Fish","Salmon","Chinook",8,100.375
+"525","2019","05","21","COR","Armored",0,"Fish","Salmon","Chum",176,9.13068181818182
+"526","2019","05","21","COR","Armored",0,"Fish","Stichaeid","Stickleback",1,60
+"527","2019","05","21","COR","Armored",1,"Fish","Salmon","Chinook",2,97.5
+"528","2019","05","21","COR","Armored",1,"Fish","Salmon","Chum",2,80
+"529","2019","05","21","COR","Armored",2,"Fish","Salmon","Chinook",8,104.875
+"530","2019","05","21","COR","Armored",2,"Fish","Salmon","Chum",10,89.8
+"531","2019","05","21","COR","Armored",2,"Fish","Sygnathid","Pipefish",1,157
+"532","2019","05","21","COR","Armored",2,"Pelagic invertebrate","Gastropod","Melibe",1,0
+"533","2019","05","21","COR","Natural",0,"Fish","Perch","Shiner Perch",2,87.5
+"534","2019","05","21","COR","Natural",1,"Fish","Forage Fish","Herring",51,49.3725490196078
+"535","2019","05","21","COR","Natural",1,"Fish","Forage Fish","Northern Anchovy",1,110
+"536","2019","05","21","COR","Natural",1,"Fish","Forage Fish","Surf Smelt",8,153.75
+"537","2019","05","21","COR","Natural",1,"Fish","Perch","Shiner Perch",85,19.2941176470588
+"538","2019","05","21","COR","Natural",1,"Fish","Salmon","Chinook",11,125.818181818182
+"539","2019","05","21","COR","Natural",1,"Fish","Salmon","Chum",9,86.6666666666667
+"540","2019","05","21","COR","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",3,0
+"541","2019","05","21","COR","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"542","2019","05","21","COR","Natural",2,NA,NA,"none",1,0
+"543","2019","05","21","COR","Restored",0,"Benthic Invertebrate","Decapod","Kelp Crab",1,40
+"544","2019","05","21","COR","Restored",0,"Fish","Cottidae","Buffalo Sculpin",7,23.5714285714286
+"545","2019","05","21","COR","Restored",0,"Fish","Decapod","UnID Shrimp",63,9.19047619047619
+"546","2019","05","21","COR","Restored",0,"Fish","Forage Fish","Herring",4,130.75
+"547","2019","05","21","COR","Restored",0,"Fish","Forage Fish","Surf Smelt",4,104.5
+"548","2019","05","21","COR","Restored",0,"Fish","Perch","Shiner Perch",9,88.8888888888889
+"549","2019","05","21","COR","Restored",0,"Fish","Perch","Striped Perch",1,103
+"550","2019","05","21","COR","Restored",0,"Fish","Pholidae","Crescent Gunnel",6,99.3333333333333
+"551","2019","05","21","COR","Restored",0,"Fish","Pholidae","Penpoint Gunnel",1,90
+"552","2019","05","21","COR","Restored",0,"Fish","Pholidae","Saddleback Gunnel",1,110
+"553","2019","05","21","COR","Restored",0,"Fish","Salmon","Chinook",6,103
+"554","2019","05","21","COR","Restored",0,"Fish","Salmon","Chum",40,33.75
+"555","2019","05","21","COR","Restored",0,"Fish","Stichaeid","Snake Prickleback",9,102.333333333333
+"556","2019","05","21","COR","Restored",0,"Fish","Sygnathid","Pipefish",7,150.285714285714
+"557","2019","05","21","COR","Restored",0,"Pelagic invertebrate","Gastropod","Melibe",9,0
+"558","2019","05","21","COR","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",6,0
+"559","2019","05","21","COR","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"560","2019","05","21","COR","Restored",1,"Benthic Invertebrate","Decapod","Helmet Crab",1,80
+"561","2019","05","21","COR","Restored",1,"Benthic Invertebrate","Decapod","Hippolyte Sp",18,13.3888888888889
+"562","2019","05","21","COR","Restored",1,"Benthic Invertebrate","Decapod","Pandalid",10,20.3
+"563","2019","05","21","COR","Restored",1,"Benthic Invertebrate","Decapod","UnID Shrimp",5,21.6
+"564","2019","05","21","COR","Restored",1,"Fish","Cottidae","Buffalo Sculpin",3,19.3333333333333
+"565","2019","05","21","COR","Restored",1,"Fish","Cottidae","Silver Spotted Sculpin",1,30
+"566","2019","05","21","COR","Restored",1,"Fish","Gadidae","Tom Cod",1,48
+"567","2019","05","21","COR","Restored",1,"Fish","Hexagrammidae","Kelp Greenling",2,40
+"568","2019","05","21","COR","Restored",1,"Fish","Perch","Shiner Perch",3,74
+"569","2019","05","21","COR","Restored",1,"Fish","Pholidae","Crescent Gunnel",2,100
+"570","2019","05","21","COR","Restored",1,"Fish","Pholidae","Saddleback Gunnel",1,110
+"571","2019","05","21","COR","Restored",1,"Fish","Stichaeid","Snake Prickleback",1,150
+"572","2019","05","21","COR","Restored",1,"Pelagic invertebrate","Gastropod","Melibe",5,0
+"573","2019","05","21","COR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"574","2019","05","21","COR","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"575","2019","05","22","FAM","Armored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",2,52.5
+"576","2019","05","22","FAM","Armored",0,"Fish","Forage Fish","Surf Smelt",2,134.5
+"577","2019","05","22","FAM","Armored",0,"Fish","Perch","Shiner Perch",2,124
+"578","2019","05","22","FAM","Armored",0,"Fish","Salmon","Chum",2,57.5
+"579","2019","05","22","FAM","Armored",0,"Fish","Stichaeid","Stickleback",3,58.3333333333333
+"580","2019","05","22","FAM","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",4,0
+"581","2019","05","22","FAM","Armored",1,"Fish","UnID Fish","UnID Larval Fish",1,30
+"582","2019","05","22","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"583","2019","05","22","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,0
+"584","2019","05","22","FAM","Armored",2,"Fish","UnID Fish","UnID Larval Fish",50,12.98
+"585","2019","05","22","FAM","Natural",0,"Fish","Forage Fish","Herring",28,28.7857142857143
+"586","2019","05","22","FAM","Natural",0,"Fish","Stichaeid","Snake Prickleback",6,111.166666666667
+"587","2019","05","22","FAM","Natural",1,NA,NA,"none",1,0
+"588","2019","05","22","FAM","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"589","2019","05","22","FAM","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"590","2019","05","22","FAM","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"591","2019","05","22","FAM","Restored",1,"Fish","Hexagrammidae","Kelp Greenling",2,65
+"592","2019","05","22","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"593","2019","05","22","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"594","2019","05","22","TUR","Armored",0,"Fish","Sygnathid","Tube Snout",1,135
+"595","2019","05","22","TUR","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"596","2019","05","22","TUR","Armored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",8,0
+"597","2019","05","22","TUR","Armored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",6,0
+"598","2019","05","22","TUR","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",7,0
+"599","2019","05","22","TUR","Natural",0,"Fish","Forage Fish","Herring",2,31
+"600","2019","05","22","TUR","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"601","2019","05","22","TUR","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,0
+"602","2019","05","22","TUR","Natural",2,NA,NA,"none",1,0
+"603","2019","05","22","TUR","Restored",0,"Benthic Invertebrate","Decapod","Kelp Crab",3,31
+"604","2019","05","22","TUR","Restored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",5,0
+"605","2019","05","22","TUR","Restored",0,"Fish","Gadidae","Tom Cod",4,29.75
+"606","2019","05","22","TUR","Restored",0,"Fish","Pholidae","Saddleback Gunnel",2,90
+"607","2019","05","22","TUR","Restored",0,"Fish","Stichaeid","Snake Prickleback",1,110
+"608","2019","05","22","TUR","Restored",1,NA,NA,"none",1,0
+"609","2019","05","22","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"610","2019","05","30","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",3,0
+"611","2019","05","30","EDG","Armored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"612","2019","05","30","EDG","Armored",2,"Fish","Salmon","Chinook",1,120
+"613","2019","05","30","EDG","Natural",0,"Benthic Invertebrate","Decapod","Graceful Crab",1,19
+"614","2019","05","30","EDG","Natural",0,"Benthic Invertebrate","Decapod","Helmet Crab",17,24.8823529411765
+"615","2019","05","30","EDG","Natural",0,"Fish","Perch","Shiner Perch",4,90.5
+"616","2019","05","30","EDG","Natural",0,"Fish","Rockfish","UnID Rockfish",1,22
+"617","2019","05","30","EDG","Natural",0,"Fish","Stichaeid","Stickleback",1,63
+"618","2019","05","30","EDG","Natural",1,"Fish","Salmon","Chinook",2,86
+"619","2019","05","30","EDG","Natural",1,"Fish","Salmon","Chum",1,80
+"620","2019","05","30","EDG","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"621","2019","05","30","EDG","Restored",0,"Fish","Perch","Shiner Perch",7,83.8571428571429
+"622","2019","05","30","EDG","Restored",0,"Fish","Salmon","Chinook",3,93.6666666666667
+"623","2019","05","30","EDG","Restored",0,"Fish","Stichaeid","Stickleback",1,58
+"624","2019","05","30","EDG","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"625","2019","05","30","EDG","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"626","2019","05","30","EDG","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"627","2019","05","30","EDG","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"628","2019","06","18","COR","Armored",0,NA,NA,"none",1,0
+"629","2019","06","18","COR","Armored",1,NA,NA,"none",1,0
+"630","2019","06","18","COR","Armored",2,"Fish","Salmon","Chum",4,89
+"631","2019","06","18","COR","Natural",0,"Fish","Perch","Pile Perch",4,152.5
+"632","2019","06","18","COR","Natural",0,"Fish","Perch","Shiner Perch",61,27.672131147541
+"633","2019","06","18","COR","Natural",0,"Fish","Perch","Striped Perch",2,165
+"634","2019","06","18","COR","Natural",0,"Fish","Pholidae","Saddleback Gunnel",5,88
+"635","2019","06","18","COR","Natural",0,"Fish","Salmon","Chinook",3,105
+"636","2019","06","18","COR","Natural",0,"Fish","Salmon","Chum",43,35.046511627907
+"637","2019","06","18","COR","Natural",0,"Fish","Salmon","Cutthroat",1,173
+"638","2019","06","18","COR","Natural",0,"Fish","Sygnathid","Pipefish",1,0
+"639","2019","06","18","COR","Natural",1,"Fish","Forage Fish","Surf Smelt",1,130
+"640","2019","06","18","COR","Natural",1,"Fish","Perch","Shiner Perch",11,87.0909090909091
+"641","2019","06","18","COR","Natural",1,"Fish","Salmon","Chum",3,76.3333333333333
+"642","2019","06","18","COR","Natural",2,"Fish","Salmon","Chum",1,63
+"643","2019","06","18","COR","Restored",0,"Benthic Invertebrate","Isopod","Idotea",1,1
+"644","2019","06","18","COR","Restored",0,"Fish","Cottidae","Great Sculpin",2,200
+"645","2019","06","18","COR","Restored",0,"Fish","Cottidae","Tadpole Sculpin",4,27.25
+"646","2019","06","18","COR","Restored",0,"Fish","Cottidae","UnID Sculpin",1,105
+"647","2019","06","18","COR","Restored",0,"Fish","Flatfish","Starry Flounder",1,300
+"648","2019","06","18","COR","Restored",0,"Fish","Hexagrammidae","Kelp Greenling",1,74
+"649","2019","06","18","COR","Restored",0,"Fish","Liparidae","Tidepool Snailfish",1,117
+"650","2019","06","18","COR","Restored",0,"Fish","Perch","Shiner Perch",11,74.4545454545455
+"651","2019","06","18","COR","Restored",0,"Fish","Perch","Striped Perch",1,220
+"652","2019","06","18","COR","Restored",0,"Fish","Salmon","Chum",1,100
+"653","2019","06","18","COR","Restored",0,"Fish","Sygnathid","Pipefish",1,150
+"654","2019","06","18","COR","Restored",0,"Fish","Sygnathid","Tube Snout",1,120
+"655","2019","06","18","COR","Restored",1,"Benthic Invertebrate","Decapod","Kelp Crab",1,30
+"656","2019","06","18","COR","Restored",1,"Benthic Invertebrate","Decapod","UnID Shrimp",12,0
+"657","2019","06","18","COR","Restored",1,"Fish","Cottidae","Staghorn Sculpin",1,250
+"658","2019","06","18","COR","Restored",1,"Fish","Cottidae","Tadpole Sculpin",2,24
+"659","2019","06","18","COR","Restored",1,"Fish","Gadidae","Tom Cod",2,55.5
+"660","2019","06","18","COR","Restored",1,"Fish","Hexagrammidae","Kelp Greenling",1,53
+"661","2019","06","18","COR","Restored",1,"Fish","Perch","Shiner Perch",11,88.9090909090909
+"662","2019","06","18","COR","Restored",1,"Fish","Pholidae","Saddleback Gunnel",2,92.5
+"663","2019","06","18","COR","Restored",1,"Fish","Salmon","Chinook",2,98
+"664","2019","06","18","COR","Restored",1,"Fish","Stichaeid","Snake Prickleback",1,210
+"665","2019","06","18","COR","Restored",1,"Fish","Sygnathid","Pipefish",2,193.5
+"666","2019","06","18","COR","Restored",1,"Pelagic invertebrate","Gastropod","Melibe",6,0
+"667","2019","06","18","COR","Restored",2,"Fish","Salmon","Chinook",3,102.333333333333
+"668","2019","06","18","COR","Restored",2,"Fish","Salmon","Chum",3,79.6666666666667
+"669","2019","06","18","FAM","Armored",0,"Benthic Invertebrate","Decapod","Graceful Crab",2,42.5
+"670","2019","06","18","FAM","Armored",0,"Benthic Invertebrate","Decapod","Helmet Crab",2,67.5
+"671","2019","06","18","FAM","Armored",0,"Fish","Cottidae","UnID Sculpin",3,81.6666666666667
+"672","2019","06","18","FAM","Armored",0,"Fish","Hexagrammidae","Kelp Greenling",2,90
+"673","2019","06","18","FAM","Armored",0,"Fish","Perch","Shiner Perch",6,85.5
+"674","2019","06","18","FAM","Armored",0,"Fish","Pholidae","Saddleback Gunnel",1,79
+"675","2019","06","18","FAM","Armored",0,"Fish","Stichaeid","Snake Prickleback",1,109
+"676","2019","06","18","FAM","Armored",1,NA,NA,"none",1,0
+"677","2019","06","18","FAM","Armored",2,NA,NA,"none",1,0
+"678","2019","06","18","FAM","Natural",0,"Fish","Forage Fish","Surf Smelt",1,36
+"679","2019","06","18","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"680","2019","06","18","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",6,0
+"681","2019","06","18","FAM","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"682","2019","06","18","FAM","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"683","2019","06","18","FAM","Restored",0,"Fish","Stichaeid","Snake Prickleback",11,118.363636363636
+"684","2019","06","18","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",20,0
+"685","2019","06","18","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"686","2019","06","18","FAM","Restored",2,NA,NA,"none",1,0
+"687","2019","06","19","TUR","Armored",0,"Fish","Cottidae","UnID Sculpin",4,47.75
+"688","2019","06","19","TUR","Armored",0,"Fish","Flatfish","English sole",2,57.5
+"689","2019","06","19","TUR","Armored",0,"Fish","Gadidae","Tom Cod",40,23
+"690","2019","06","19","TUR","Armored",0,"Fish","Hexagrammidae","Kelp Greenling",1,38
+"691","2019","06","19","TUR","Armored",0,"Fish","Perch","Shiner Perch",4,87.25
+"692","2019","06","19","TUR","Armored",0,"Fish","Stichaeid","Snake Prickleback",5,68.6
+"693","2019","06","19","TUR","Armored",1,"Fish","Gadidae","Tom Cod",21,43.4761904761905
+"694","2019","06","19","TUR","Armored",1,"Fish","Perch","Shiner Perch",1,90
+"695","2019","06","19","TUR","Armored",1,"Fish","Pholidae","Saddleback Gunnel",2,82.5
+"696","2019","06","19","TUR","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"697","2019","06","19","TUR","Natural",0,"Fish","Cottidae","Silver Spotted Sculpin",4,52.5
+"698","2019","06","19","TUR","Natural",0,"Fish","Perch","Striped Perch",2,220
+"699","2019","06","19","TUR","Natural",0,"Fish","Stichaeid","Stickleback",1,74
+"700","2019","06","19","TUR","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"701","2019","06","19","TUR","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"702","2019","06","19","TUR","Restored",0,NA,NA,"none",1,0
+"703","2019","06","19","TUR","Restored",1,"Fish","Salmon","Chum",2,100
+"704","2019","06","19","TUR","Restored",2,NA,NA,"none",1,0
+"705","2019","06","20","DOK","Armored",0,"Fish","Perch","Shiner Perch",51,33.6078431372549
+"706","2019","06","20","DOK","Armored",1,NA,NA,"none",1,0
+"707","2019","06","20","DOK","Armored",2,NA,NA,"none",1,0
+"708","2019","06","20","DOK","Natural",0,NA,NA,"none",1,0
+"709","2019","06","20","DOK","Natural",1,"Fish","Jellyfish","Moon Jelly",5,0
+"710","2019","06","20","DOK","Natural",2,"Fish","Perch","Shiner Perch",1,105
+"711","2019","06","20","DOK","Restored",0,"Fish","Perch","Shiner Perch",34,48.8823529411765
+"712","2019","06","20","DOK","Restored",0,"Fish","Sygnathid","Pipefish",2,152.5
+"713","2019","06","20","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"714","2019","06","20","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"715","2019","06","20","DOK","Restored",1,NA,NA,"none",1,0
+"716","2019","06","20","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"717","2019","06","20","EDG","Armored",0,NA,NA,"none",1,0
+"718","2019","06","20","EDG","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"719","2019","06","20","EDG","Armored",2,NA,NA,"none",1,0
+"720","2019","06","20","EDG","Natural",0,NA,NA,"none",1,0
+"721","2019","06","20","EDG","Natural",1,"Fish","Stichaeid","Stickleback",1,68
+"722","2019","06","20","EDG","Natural",2,"Fish","Salmon","Chinook",1,125
+"723","2019","06","20","EDG","Natural",2,"Fish","Stichaeid","Stickleback",1,61
+"724","2019","06","20","EDG","Restored",0,"Fish","Jellyfish","Fried Egg Jelly",1,0
+"725","2019","06","20","EDG","Restored",0,"Fish","Perch","Shiner Perch",4,98
+"726","2019","06","20","EDG","Restored",1,NA,NA,"none",1,0
+"727","2019","06","20","EDG","Restored",2,NA,NA,"none",1,0
+"728","2019","06","20","SHR","Armored",0,"Fish","Jellyfish","Moon Jelly",10,0
+"729","2019","06","20","SHR","Armored",0,"Fish","Jellyfish","Water Jelly",1,0
+"730","2019","06","20","SHR","Armored",1,"Fish","Jellyfish","Moon Jelly",50,0
+"731","2019","06","20","SHR","Armored",2,"Fish","Salmon","Chinook",4,96
+"732","2019","06","20","SHR","Armored",2,"Fish","Salmon","Chum",2,81
+"733","2019","06","20","SHR","Armored",2,"Fish","Salmon","Coho",7,151.142857142857
+"734","2019","06","20","SHR","Natural",0,"Benthic Invertebrate","Decapod","Kelp Crab",1,0
+"735","2019","06","20","SHR","Natural",0,"Fish","Gadidae","Tom Cod",1,62
+"736","2019","06","20","SHR","Natural",0,"Fish","Pholidae","Crescent Gunnel",1,125
+"737","2019","06","20","SHR","Natural",0,"Fish","Sygnathid","Tube Snout",4,133.75
+"738","2019","06","20","SHR","Natural",1,"Fish","Jellyfish","Moon Jelly",25,0
+"739","2019","06","20","SHR","Natural",2,"Fish","Jellyfish","Moon Jelly",50,0
+"740","2019","06","20","SHR","Natural",2,"Fish","Jellyfish","Water Jelly",1,0
+"741","2019","06","20","SHR","Natural",2,"Fish","Salmon","Chum",1,110
+"742","2019","06","20","SHR","Natural",2,"Fish","Salmon","Coho",1,139
+"743","2019","06","20","SHR","Restored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",2,0
+"744","2019","06","20","SHR","Restored",0,"Fish","Sygnathid","Tube Snout",1,132
+"745","2019","06","20","SHR","Restored",1,"Fish","Jellyfish","Moon Jelly",100,0
+"746","2019","06","20","SHR","Restored",2,"Fish","Jellyfish","Moon Jelly",50,0
+"747","2019","06","20","SHR","Restored",2,"Fish","Jellyfish","Water Jelly",1,0
+"748","2019","07","09","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",45,0
+"749","2019","07","09","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Fried Egg Jelly",1,0
+"750","2019","07","09","DOK","Armored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",85,0
+"751","2019","07","09","DOK","Armored",2,"Fish","Salmon","Chinook",1,155
+"752","2019","07","09","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",44,0
+"753","2019","07","09","DOK","Natural",0,"Fish","Salmon","Cutthroat",2,240
+"754","2019","07","09","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",33,0
+"755","2019","07","09","DOK","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"756","2019","07","09","DOK","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",11,0
+"757","2019","07","09","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",29,0
+"758","2019","07","09","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,0
+"759","2019","07","09","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",41,0
+"760","2019","07","09","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",12,0
+"761","2019","07","09","SHR","Armored",0,NA,NA,"none",1,0
+"762","2019","07","09","SHR","Armored",1,NA,NA,"none",1,0
+"763","2019","07","09","SHR","Armored",2,NA,NA,"none",1,0
+"764","2019","07","09","SHR","Natural",0,NA,NA,"none",1,0
+"765","2019","07","09","SHR","Natural",1,NA,NA,"none",1,0
+"766","2019","07","09","SHR","Natural",2,NA,NA,"none",1,0
+"767","2019","07","09","SHR","Restored",0,NA,NA,"none",1,0
+"768","2019","07","09","SHR","Restored",1,NA,NA,"none",1,0
+"769","2019","07","09","SHR","Restored",2,NA,NA,"none",1,0
+"770","2019","07","15","FAM","Armored",0,"Benthic Invertebrate","Decapod","Helmet Crab",1,50
+"771","2019","07","15","FAM","Armored",0,"Fish","Forage Fish","Surf Smelt",1,58
+"772","2019","07","15","FAM","Armored",0,"Fish","Perch","Shiner Perch",3,48.6666666666667
+"773","2019","07","15","FAM","Armored",0,"Fish","Salmon","Chinook",1,123
+"774","2019","07","15","FAM","Armored",1,"Fish","Forage Fish","Herring",6,57.1666666666667
+"775","2019","07","15","FAM","Armored",1,"Fish","Forage Fish","Surf Smelt",60,18.7666666666667
+"776","2019","07","15","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",11,0
+"777","2019","07","15","FAM","Armored",2,NA,NA,"none",1,0
+"778","2019","07","15","FAM","Natural",0,"Benthic Invertebrate","Decapod","Hermit Crab",1,0
+"779","2019","07","15","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"780","2019","07","15","FAM","Natural",1,"Benthic Invertebrate","Decapod","UnID Shrimp",2,0
+"781","2019","07","15","FAM","Natural",1,"Fish","Forage Fish","Herring",357,3.03081232492997
+"782","2019","07","15","FAM","Natural",1,"Fish","Forage Fish","Sand Lance",3,79
+"783","2019","07","15","FAM","Natural",1,"Fish","Hexagrammidae","Kelp Greenling",1,47
+"784","2019","07","15","FAM","Natural",1,"Fish","Rockfish","UnID Rockfish",3,32.3333333333333
+"785","2019","07","15","FAM","Natural",1,"Fish","Sygnathid","Pipefish",2,184.5
+"786","2019","07","15","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",61,0
+"787","2019","07","15","FAM","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",22,0
+"788","2019","07","15","FAM","Restored",0,"Benthic Invertebrate","Decapod","Hermit Crab",1,0
+"789","2019","07","15","FAM","Restored",0,"Fish","Cottidae","UnID Sculpin",2,89.5
+"790","2019","07","15","FAM","Restored",0,"Fish","Perch","Shiner Perch",6,81
+"791","2019","07","15","FAM","Restored",0,"Fish","Stichaeid","Stickleback",1,68
+"792","2019","07","15","FAM","Restored",1,"Fish","Stichaeid","Stickleback",1,40
+"793","2019","07","15","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",18,0
+"794","2019","07","15","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",4,0
+"795","2019","07","15","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"796","2019","07","15","TUR","Armored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",7,0
+"797","2019","07","15","TUR","Armored",0,"Fish","Cottidae","Silver Spotted Sculpin",1,65
+"798","2019","07","15","TUR","Armored",0,"Fish","Gadidae","Pacific Cod",1,70
+"799","2019","07","15","TUR","Armored",0,"Fish","Gadidae","Tom Cod",226,5.67256637168142
+"800","2019","07","15","TUR","Armored",0,"Fish","Pholidae","Crescent Gunnel",1,95
+"801","2019","07","15","TUR","Armored",0,"Fish","Pholidae","Saddleback Gunnel",2,80
+"802","2019","07","15","TUR","Armored",1,NA,NA,"none",1,0
+"803","2019","07","15","TUR","Armored",2,NA,NA,"none",1,0
+"804","2019","07","15","TUR","Natural",0,NA,NA,"none",2,0
+"805","2019","07","15","TUR","Natural",1,NA,NA,"none",1,0
+"806","2019","07","15","TUR","Natural",2,NA,NA,"none",1,0
+"807","2019","07","15","TUR","Restored",0,"Benthic Invertebrate","Decapod","Kelp Crab",1,20
+"808","2019","07","15","TUR","Restored",0,"Fish","Gadidae","Tom Cod",63,22.4126984126984
+"809","2019","07","15","TUR","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"810","2019","07","15","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"811","2019","07","16","COR","Armored",0,"Fish","Forage Fish","Herring",1,105
+"812","2019","07","16","COR","Armored",0,"Fish","Forage Fish","Surf Smelt",3,151.666666666667
+"813","2019","07","16","COR","Armored",0,"Fish","Salmon","Chinook",10,114.3
+"814","2019","07","16","COR","Armored",0,"Fish","Salmon","Chum",1,100
+"815","2019","07","16","COR","Armored",0,"Fish","Trichodontidae","Pacific Sandfish",1,83
+"816","2019","07","16","COR","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",6,0
+"817","2019","07","16","COR","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"818","2019","07","16","COR","Armored",2,"Fish","Stichaeid","Stickleback",1,22
+"819","2019","07","16","COR","Natural",0,"Benthic Invertebrate","Decapod","UnID Shrimp",8,0
+"820","2019","07","16","COR","Natural",0,"Fish","Aulorhynchus","Tube Snout",1,270
+"821","2019","07","16","COR","Natural",0,"Fish","Hexagrammidae","Kelp Greenling",1,91
+"822","2019","07","16","COR","Natural",0,"Fish","Perch","Shiner Perch",88,9.05681818181818
+"823","2019","07","16","COR","Natural",0,"Fish","Pholidae","Crescent Gunnel",6,100.166666666667
+"824","2019","07","16","COR","Natural",0,"Fish","Pholidae","Saddleback Gunnel",2,89.5
+"825","2019","07","16","COR","Natural",0,"Fish","Stichaeid","Snake Prickleback",1,134
+"826","2019","07","16","COR","Natural",1,"Benthic Invertebrate","Decapod","Kelp Crab",2,16
+"827","2019","07","16","COR","Natural",1,"Fish","Forage Fish","Herring",28,86.8571428571429
+"828","2019","07","16","COR","Natural",1,"Fish","Forage Fish","Surf Smelt",79,38.8860759493671
+"829","2019","07","16","COR","Natural",1,"Fish","Gadidae","Pacific Cod",1,68
+"830","2019","07","16","COR","Natural",1,"Fish","Perch","Shiner Perch",9,91.6666666666667
+"831","2019","07","16","COR","Natural",1,"Fish","Perch","Striped Perch",1,130
+"832","2019","07","16","COR","Natural",1,"Fish","Pholidae","Penpoint Gunnel",1,75
+"833","2019","07","16","COR","Natural",1,"Fish","Salmon","Chinook",9,120.444444444444
+"834","2019","07","16","COR","Natural",1,"Fish","Salmon","Chum",8,87.75
+"835","2019","07","16","COR","Natural",2,"Fish","Salmon","Chinook",1,135
+"836","2019","07","16","COR","Natural",2,"Fish","Salmon","Chum",4,104.75
+"837","2019","07","16","COR","Restored",0,"Benthic Invertebrate","Decapod","Helmet Crab",1,60
+"838","2019","07","16","COR","Restored",0,"Benthic Invertebrate","Decapod","UnID Shrimp",14,0
+"839","2019","07","16","COR","Restored",0,"Fish","Cottidae","Buffalo Sculpin",8,32.25
+"840","2019","07","16","COR","Restored",0,"Fish","Cottidae","Staghorn Sculpin",2,209
+"841","2019","07","16","COR","Restored",0,"Fish","Flatfish","Starry Flounder",1,190
+"842","2019","07","16","COR","Restored",0,"Fish","Gadidae","Pacific Cod",1,65
+"843","2019","07","16","COR","Restored",0,"Fish","Hexagrammidae","Kelp Greenling",1,101
+"844","2019","07","16","COR","Restored",0,"Fish","Perch","Pile Perch",1,148
+"845","2019","07","16","COR","Restored",0,"Fish","Perch","Shiner Perch",30,56.0666666666667
+"846","2019","07","16","COR","Restored",0,"Fish","Pholidae","Crescent Gunnel",8,95.875
+"847","2019","07","16","COR","Restored",0,"Fish","Pholidae","Saddleback Gunnel",5,107.8
+"848","2019","07","16","COR","Restored",0,"Fish","Stichaeid","Snake Prickleback",5,166.8
+"849","2019","07","16","COR","Restored",1,"Benthic Invertebrate","Decapod","UnID Shrimp",7,0
+"850","2019","07","16","COR","Restored",1,"Fish","Cottidae","Tadpole Sculpin",1,27
+"851","2019","07","16","COR","Restored",1,"Fish","Perch","Shiner Perch",41,21.5365853658537
+"852","2019","07","16","COR","Restored",1,"Fish","Pholidae","Crescent Gunnel",1,81
+"853","2019","07","16","COR","Restored",1,"Fish","Pholidae","Saddleback Gunnel",2,80.5
+"854","2019","07","16","COR","Restored",1,"Fish","Stichaeid","Snake Prickleback",2,77
+"855","2019","07","16","COR","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"856","2019","07","16","COR","Restored",2,NA,NA,"none",1,0
+"857","2019","07","31","EDG","Armored",0,"Fish","Salmon","Chinook",2,120
+"858","2019","07","31","EDG","Armored",0,"Fish","Stichaeid","Stickleback",2,70
+"859","2019","07","31","EDG","Armored",1,"Fish","Stichaeid","Stickleback",1,65
+"860","2019","07","31","EDG","Armored",2,NA,NA,"none",1,0
+"861","2019","07","31","EDG","Natural",0,NA,NA,"none",1,0
+"862","2019","07","31","EDG","Natural",1,NA,NA,"none",1,0
+"863","2019","07","31","EDG","Natural",2,NA,NA,"none",1,0
+"864","2019","07","31","EDG","Restored",0,"Fish","Perch","Shiner Perch",16,96.5
+"865","2019","07","31","EDG","Restored",0,"Fish","Stichaeid","Stickleback",14,63.8571428571429
+"866","2019","07","31","EDG","Restored",0,"Fish","Sygnathid","Pipefish",1,82
+"867","2019","07","31","EDG","Restored",1,"Fish","Forage Fish","Surf Smelt",4,130.75
+"868","2019","07","31","EDG","Restored",1,"Fish","Stichaeid","Stickleback",26,48.4230769230769
+"869","2019","07","31","EDG","Restored",2,"Fish","Stichaeid","Stickleback",1,62
+"870","2019","08","13","COR","Armored",1,"Fish","Forage Fish","Herring",1,80
+"871","2019","08","13","COR","Armored",1,"Fish","Perch","Shiner Perch",4,54
+"872","2019","08","13","COR","Armored",1,"Fish","Pholidae","Saddleback Gunnel",1,105
+"873","2019","08","13","COR","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"874","2019","08","13","COR","Natural",1,"Fish","Flatfish","Starry Flounder",1,191
+"875","2019","08","13","COR","Natural",1,"Fish","Perch","Shiner Perch",71,17.3380281690141
+"876","2019","08","13","COR","Natural",2,"Fish","Salmon","Chinook",3,127.333333333333
+"877","2019","08","13","COR","Natural",2,"Fish","Salmon","Chum",1,129
+"878","2019","08","13","COR","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",3,0
+"879","2019","08","13","COR","Restored",1,"Benthic Invertebrate","Decapod","UnID Shrimp",1,0
+"880","2019","08","13","COR","Restored",1,"Fish","Gadidae","Pacific Cod",1,114
+"881","2019","08","13","COR","Restored",1,"Fish","Perch","Shiner Perch",20,79.75
+"882","2019","08","13","COR","Restored",1,"Fish","Pholidae","Crescent Gunnel",1,82
+"883","2019","08","13","COR","Restored",1,"Fish","Pholidae","Penpoint Gunnel",1,160
+"884","2019","08","13","COR","Restored",1,"Fish","Pholidae","Saddleback Gunnel",5,99.4
+"885","2019","08","13","COR","Restored",1,"Fish","Sygnathid","Pipefish",1,170
+"886","2019","08","13","COR","Restored",1,"Pelagic invertebrate","Gastropod","Melibe",42,0
+"887","2019","08","13","COR","Restored",2,"Fish","Salmon","Chinook",1,120
+"888","2019","08","13","FAM","Armored",0,"Fish","Forage Fish","Surf Smelt",15,75.4666666666667
+"889","2019","08","13","FAM","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",2,0
+"890","2019","08","13","FAM","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",11,0
+"891","2019","08","13","FAM","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",3,0
+"892","2019","08","13","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"893","2019","08","13","FAM","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",5,0
+"894","2019","08","13","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",17,0
+"895","2019","08","13","FAM","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",6,0
+"896","2019","08","13","FAM","Natural",2,"Fish","Forage Fish","Herring",1,70
+"897","2019","08","13","FAM","Natural",2,"Fish","Forage Fish","Surf Smelt",2,76
+"898","2019","08","13","FAM","Restored",0,"Benthic Invertebrate","Decapod","Dungeness Crab",1,43
+"899","2019","08","13","FAM","Restored",0,"Fish","Flatfish","UnID Flatfish",1,72
+"900","2019","08","13","FAM","Restored",0,"Fish","Perch","Shiner Perch",29,36.9655172413793
+"901","2019","08","13","FAM","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",23,0
+"902","2019","08","13","FAM","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",7,0
+"903","2019","08","13","FAM","Restored",1,"Fish","Forage Fish","Herring",2,51.5
+"904","2019","08","13","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"905","2019","08","13","FAM","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"906","2019","08","13","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",3,0
+"907","2019","08","13","FAM","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",5,0
+"908","2019","08","14","TUR","Armored",0,"Fish","Decapod","Hermit Crab",1,54
+"909","2019","08","14","TUR","Armored",0,"Fish","Perch","Shiner Perch",7,93.5714285714286
+"910","2019","08","14","TUR","Armored",0,"Fish","Pholidae","Penpoint Gunnel",2,70
+"911","2019","08","14","TUR","Armored",1,"Fish","Gadidae","Tom Cod",2,71
+"912","2019","08","14","TUR","Armored",1,"Fish","Perch","Pile Perch",1,70
+"913","2019","08","14","TUR","Armored",1,"Fish","Pholidae","Crescent Gunnel",1,80
+"914","2019","08","14","TUR","Armored",1,"Fish","Pholidae","Penpoint Gunnel",1,90
+"915","2019","08","14","TUR","Armored",1,"Fish","Pholidae","Saddleback Gunnel",1,90
+"916","2019","08","14","TUR","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"917","2019","08","14","TUR","Natural",0,NA,NA,"none",1,0
+"918","2019","08","14","TUR","Natural",1,NA,NA,"none",1,0
+"919","2019","08","14","TUR","Natural",2,NA,NA,"none",1,0
+"920","2019","08","14","TUR","Restored",0,"Fish","Hexagrammidae","White Spotted Greenling",1,141
+"921","2019","08","14","TUR","Restored",1,NA,NA,"none",1,0
+"922","2019","08","14","TUR","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"923","2019","08","20","DOK","Armored",0,"Fish","Stichaeid","Stickleback",3,28.3333333333333
+"924","2019","08","20","DOK","Armored",1,"Fish","Stichaeid","Stickleback",174,3.82183908045977
+"925","2019","08","20","DOK","Armored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"926","2019","08","20","DOK","Natural",0,"Fish","Stichaeid","Stickleback",1,29
+"927","2019","08","20","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",9,0
+"928","2019","08","20","DOK","Natural",1,"Fish","Stichaeid","Stickleback",1,29
+"929","2019","08","20","DOK","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",28,0
+"930","2019","08","20","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",128,0
+"931","2019","08","20","DOK","Restored",0,"Fish","Stichaeid","Stickleback",2,36.5
+"932","2019","08","20","DOK","Restored",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"933","2019","08","20","DOK","Restored",2,"Fish","Stichaeid","Stickleback",2,30.5
+"934","2019","08","20","DOK","Restored",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",6,0
+"935","2019","08","20","SHR","Armored",0,"Fish","Perch","Shiner Perch",1,96
+"936","2019","08","20","SHR","Armored",1,NA,NA,"none",1,0
+"937","2019","08","20","SHR","Armored",2,NA,NA,"none",1,0
+"938","2019","08","20","SHR","Natural",0,"Benthic Invertebrate","Decapod","Dungeness Crab",1,0
+"939","2019","08","20","SHR","Natural",0,"Benthic Invertebrate","Decapod","Kelp Crab",4,14
+"940","2019","08","20","SHR","Natural",0,"Fish","Perch","Shiner Perch",10,96.3
+"941","2019","08","20","SHR","Natural",1,NA,NA,"none",1,0
+"942","2019","08","20","SHR","Natural",2,NA,NA,"none",1,0
+"943","2019","08","20","SHR","Restored",0,"Benthic Invertebrate","Isopod","Idotea",1,0
+"944","2019","08","20","SHR","Restored",0,"Fish","Perch","Shiner Perch",7,85.2857142857143
+"945","2019","08","20","SHR","Restored",1,NA,NA,"none",1,0
+"946","2019","08","20","SHR","Restored",2,NA,NA,"none",1,0
+"947","2019","08","22","EDG","Armored",0,"Fish","Stichaeid","Stickleback",2,22
+"948","2019","08","22","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",15,0
+"949","2019","08","22","EDG","Armored",0,"Pelagic invertebrate","Jellyfish","Lion's Mane",1,0
+"950","2019","08","22","EDG","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",10,0
+"951","2019","08","22","EDG","Armored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",5,0
+"952","2019","08","22","EDG","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",100,0
+"953","2019","08","22","EDG","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",15,0
+"954","2019","08","22","EDG","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"955","2019","08","22","EDG","Restored",0,"Pelagic invertebrate","Jellyfish","Ctenophore",30,0
+"956","2019","08","22","EDG","Restored",1,NA,NA,"none",1,0
+"957","2019","08","22","EDG","Restored",2,"Benthic Invertebrate","Isopod","Idotea",1,0
+"958","2019","08","22","EDG","Restored",2,"Fish","Stichaeid","Stickleback",1,64
+"959","2019","08","22","EDG","Restored",2,"Pelagic invertebrate","Jellyfish","Ctenophore",15,0
+"960","2019","09","05","FAM","Armored",0,NA,NA,"none",1,0
+"961","2019","09","05","FAM","Armored",1,"Pelagic Invertebrate","Jellyfish","Ctenophore",1,0
+"962","2019","09","05","FAM","Armored",2,"Fish","Stichaeid","Stickleback",1,41
+"963","2019","09","05","FAM","Armored",2,"Pelagic Invertebrate","Jellyfish","Ctenophore",2,0
+"964","2019","09","05","FAM","Natural",0,"Fish","Forage Fish","Surf Smelt",1,77
+"965","2019","09","05","FAM","Natural",0,"Pelagic Invertebrate","Jellyfish","Ctenophore",5,0
+"966","2019","09","05","FAM","Natural",1,NA,NA,"none",1,0
+"967","2019","09","05","FAM","Natural",2,"Fish","Stichaeid","Stickleback",4,39.25
+"968","2019","09","05","FAM","Natural",2,"Pelagic Invertebrate","Jellyfish","Redeyed Medusa Jelly",1,0
+"969","2019","09","05","FAM","Restored",0,NA,NA,"none",1,0
+"970","2019","09","05","FAM","Restored",1,NA,NA,"none",1,0
+"971","2019","09","05","FAM","Restored",2,NA,NA,"none",1,0
+"972","2019","09","05","TUR","Armored",0,"Fish","Perch","Shiner Perch",20,78.35
+"973","2019","09","05","TUR","Armored",1,NA,NA,"none",1,0
+"974","2019","09","05","TUR","Armored",2,NA,NA,"none",1,0
+"975","2019","09","05","TUR","Natural",0,"Benthic Invertebrate","Decapod","Green Shrimp",4,0
+"976","2019","09","05","TUR","Natural",1,NA,NA,"none",1,0
+"977","2019","09","05","TUR","Natural",2,NA,NA,"none",1,0
+"978","2019","09","05","TUR","Restored",0,NA,NA,"none",1,0
+"979","2019","09","05","TUR","Restored",1,NA,NA,"none",1,0
+"980","2019","09","05","TUR","Restored",2,NA,NA,"none",1,0
+"981","2019","09","06","COR","Armored",0,"Fish","Perch","Shiner Perch",66,20.2424242424242
+"982","2019","09","06","COR","Armored",1,"Pelagic Invertebrate","Jellyfish","Ctenophore",4,0
+"983","2019","09","06","COR","Armored",2,"Pelagic Invertebrate","Jellyfish","Ctenophore",3,0
+"984","2019","09","06","COR","Natural",0,"benthic Invertebrate","Decapod","Green Shrimp",2,0
+"985","2019","09","06","COR","Natural",0,"Benthic Invertebrate","Decapod","Kelp Crab",1,10
+"986","2019","09","06","COR","Natural",0,"Fish","Perch","Shiner Perch",6,98.1666666666667
+"987","2019","09","06","COR","Natural",0,"Pelagic Invertebrate","Jellyfish","Ctenophore",1,0
+"988","2019","09","06","COR","Natural",1,"Fish","Cottidae","Irish Lord",1,35
+"989","2019","09","06","COR","Natural",1,"Fish","Forage Fish","Surf Smelt",2,139
+"990","2019","09","06","COR","Natural",1,"Fish","Perch","Shiner Perch",21,64.1428571428571
+"991","2019","09","06","COR","Natural",1,"Fish","Pholidae","Crescent Gunnel",1,92
+"992","2019","09","06","COR","Natural",2,"Pelagic Invertebrate","Jellyfish","Ctenophore",2,0
+"993","2019","09","06","COR","Restored",0,"benthic Invertebrate","Decapod","Dungeness Crab",3,90
+"994","2019","09","06","COR","Restored",0,"Fish","Cottidae","Staghorn Sculpin",1,116
+"995","2019","09","06","COR","Restored",0,"Fish","Flatfish","Speckled Sand Dab",1,130
+"996","2019","09","06","COR","Restored",0,"Fish","Stichaeid","Snake Prickleback",1,160
+"997","2019","09","06","COR","Restored",1,"Benthic Invertebrate","Decapod","Green Shrimp",1,0
+"998","2019","09","06","COR","Restored",1,"Fish","Perch","Shiner Perch",21,68.8571428571429
+"999","2019","09","06","COR","Restored",1,"Fish","Perch","Striped Perch",2,122
+"1000","2019","09","06","COR","Restored",1,"Fish","Pholidae","Saddleback Gunnel",2,93.5
+"1001","2019","09","06","COR","Restored",1,"Pelagic Invertebrate","Gastropod","Melibe",4,0
+"1002","2019","09","06","COR","Restored",2,"Benthic Invertebrate","Decapod","Green Shrimp",1,0
+"1003","2019","09","06","COR","Restored",2,"Pelagic Invertebrate","Jellyfish","Ctenophore",1,0
+"1004","2019","09","13","EDG","Armored",0,"Fish","Stichaeid","Stickleback",4,34.5
+"1005","2019","09","13","EDG","Armored",1,"Pelagic invertebrate","Jellyfish","Ctenophore",1,0
+"1006","2019","09","13","EDG","Armored",2,"Fish","Stichaeid","Stickleback",3,54.3333333333333
+"1007","2019","09","13","EDG","Natural",0,"Fish","Perch","Shiner Perch",21,66.9047619047619
+"1008","2019","09","13","EDG","Natural",0,"Fish","Stichaeid","Stickleback",1,38
+"1009","2019","09","13","EDG","Natural",0,"Pelagic invertebrate","Jellyfish","Ctenophore",36,0
+"1010","2019","09","13","EDG","Natural",1,"Pelagic invertebrate","Jellyfish","Ctenophore",31,0
+"1011","2019","09","13","EDG","Natural",1,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"1012","2019","09","13","EDG","Natural",2,"Pelagic invertebrate","Jellyfish","Ctenophore",31,0
+"1013","2019","09","13","EDG","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"1014","2019","09","13","EDG","Restored",0,"Fish","Flatfish","Starry Flounder",1,290
+"1015","2019","09","13","EDG","Restored",0,"Fish","Perch","Shiner Perch",444,3.3963963963964
+"1016","2019","09","13","EDG","Restored",0,"Fish","Stichaeid","Stickleback",1,35
+"1017","2019","09","13","EDG","Restored",0,"Fish","Sygnathid","Pipefish",1,130
+"1018","2019","09","13","EDG","Restored",1,NA,NA,"none",1,0
+"1019","2019","09","13","EDG","Restored",2,NA,NA,"none",1,0
+"1020","2019","09","30","DOK","Armored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"1021","2019","09","30","DOK","Armored",1,NA,NA,"none",1,0
+"1022","2019","09","30","DOK","Armored",2,NA,NA,"none",1,0
+"1023","2019","09","30","DOK","Natural",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",2,0
+"1024","2019","09","30","DOK","Natural",1,NA,NA,"none",1,0
+"1025","2019","09","30","DOK","Natural",2,"Pelagic invertebrate","Jellyfish","Moon Jelly",78,0
+"1026","2019","09","30","DOK","Restored",0,"Pelagic invertebrate","Jellyfish","Moon Jelly",1,0
+"1027","2019","09","30","DOK","Restored",1,NA,NA,"none",1,0
+"1028","2019","09","30","DOK","Restored",2,NA,NA,"none",1,0
+"1029","2019","09","30","SHR","Armored",0,NA,NA,"none",1,0
+"1030","2019","09","30","SHR","Armored",1,NA,NA,"none",1,0
+"1031","2019","09","30","SHR","Armored",2,NA,NA,"none",1,0
+"1032","2019","09","30","SHR","Natural",0,"Benthic Invertebrate","Decapod","Kelp Crab",1,55
+"1033","2019","09","30","SHR","Natural",0,"Fish","Perch","Shiner Perch",12,75.9166666666667
+"1034","2019","09","30","SHR","Natural",1,NA,NA,"none",1,0
+"1035","2019","09","30","SHR","Natural",2,NA,NA,"none",1,0
+"1036","2019","09","30","SHR","Restored",0,NA,NA,"none",1,0
+"1037","2019","09","30","SHR","Restored",1,"Fish","Sygnathid","Tube Snout",60,39.8666666666667
+"1038","2019","09","30","SHR","Restored",2,NA,NA,"none",1,0
